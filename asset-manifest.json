@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/LandingPage-Front-end-part/static/js/main.403bde16.js",
+    "static/media/woman1.png": "/LandingPage-Front-end-part/static/media/woman1.2d3f18da892af46543fe.png",
+    "static/media/how.png": "/LandingPage-Front-end-part/static/media/how.1c1019c10d16baea5845.png",
+    "static/media/app.png": "/LandingPage-Front-end-part/static/media/app.416879a0b0f540eb3d26.png",
+    "static/media/logo.png": "/LandingPage-Front-end-part/static/media/logo.5d37ecde2238627a8395.png",
+    "index.html": "/LandingPage-Front-end-part/index.html",
+    "main.403bde16.js.map": "/LandingPage-Front-end-part/static/js/main.403bde16.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.403bde16.js"
+  ]
+}

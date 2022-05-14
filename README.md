@@ -2,4 +2,4 @@
 
 ## Was used styled-components
 
-Link to App [GitHub Pages](https://aleksegoist.github.io/LandingPage-Front-end-part).
+Link to App [Landing page](https://aleksegoist.github.io/LandingPage-Front-end-part).
